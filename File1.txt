@@ -1,8 +1,8 @@
 I`m fall in love with Leka
 testing line
-untesting line
 commit test
 456
 789.
 Add line
 new branch line
+new line for GUI
